@@ -29,3 +29,10 @@ empty_list.remove(7)
 print('empty_list = ', empty_list)
 empty_list.clear()
 print('empty_list = ', empty_list)
+avg = 68.3
+if avg >= 90:
+    print('Distinct')
+elif avg in range(60, 90):
+    print('Above Average')
+else:
+    print('Fail')
