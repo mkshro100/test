@@ -1,3 +1,3 @@
 # test
-test repositpry for git commands demonstration
+test repositpry for demonstration
 to check the staging command
